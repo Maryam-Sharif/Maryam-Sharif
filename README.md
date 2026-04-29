@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Maryam-Sharif
-- 👀 I’m interested in UI/UX machine learning and web development.
-- 🌱 I’m currently working as an intern to gain experience. 
-- 💞️ I’m looking to collaborate on github
-<!---
-Maryam-Sharif/Maryam-Sharif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-I'm Mariam Sharif — a multi-disciplinary tech professional
+specializing in UI/UX Design, Machine Learning, and Web Development.
+
+🎨 UI/UX Design — Creating clean, conversion-focused digital
+   experiences using Figma.
+
+🤖 Machine Learning — Building intelligent models and data-driven
+   solutions.
+
+🌐 Web Development — Developing responsive and modern web interfaces.
+
+📍 Currently interning at Codecelix
+🎯 Goal: Bridging the gap between great design and smart technology.
